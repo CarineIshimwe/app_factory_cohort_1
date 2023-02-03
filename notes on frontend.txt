@@ -1,0 +1,20 @@
+1. div
+2.header
+3.nav
+4.shift !
+5. Lorem quoted in paragraph tag (content)
+css
+<body style='backgroundcolor:aqua;color:red>
+ the first things we do is setting
+position
+margin
+padding
+border-box
+understanding classes.
+
+front end project 
+
+1.kwanda initiative= rwanda governent 
+push it on github
+
+pulll request 
